@@ -1,0 +1,14 @@
+C:\Users\tdzheinbaev\binSearch\search\bin\Debug\net9.0\search.exe
+C:\Users\tdzheinbaev\binSearch\search\bin\Debug\net9.0\search.deps.json
+C:\Users\tdzheinbaev\binSearch\search\bin\Debug\net9.0\search.runtimeconfig.json
+C:\Users\tdzheinbaev\binSearch\search\bin\Debug\net9.0\search.dll
+C:\Users\tdzheinbaev\binSearch\search\bin\Debug\net9.0\search.pdb
+C:\Users\tdzheinbaev\binSearch\search\obj\Debug\net9.0\search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tdzheinbaev\binSearch\search\obj\Debug\net9.0\search.AssemblyInfoInputs.cache
+C:\Users\tdzheinbaev\binSearch\search\obj\Debug\net9.0\search.AssemblyInfo.cs
+C:\Users\tdzheinbaev\binSearch\search\obj\Debug\net9.0\search.csproj.CoreCompileInputs.cache
+C:\Users\tdzheinbaev\binSearch\search\obj\Debug\net9.0\search.dll
+C:\Users\tdzheinbaev\binSearch\search\obj\Debug\net9.0\refint\search.dll
+C:\Users\tdzheinbaev\binSearch\search\obj\Debug\net9.0\search.pdb
+C:\Users\tdzheinbaev\binSearch\search\obj\Debug\net9.0\search.genruntimeconfig.cache
+C:\Users\tdzheinbaev\binSearch\search\obj\Debug\net9.0\ref\search.dll
